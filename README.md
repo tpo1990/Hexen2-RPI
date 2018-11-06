@@ -18,6 +18,9 @@ This script provides an automatic installation for compiling and building Hexen 
 5: Move .Pak file from 1997 Nov. demo of Hexen II into /home/pi/.HexenII.
 6: Create .desktop as a shortcut on Raspbian desktop and create Hexen II.sh file into Ports folder in RetroPie.
 
+**Registered/Full version:**
+If you own an original copy of Hexen 2, then it is possible to use it with Hammer of Thyrion source port. You will just need to copy .pak0 and .pak1 into /home/pi/.hexen2/data1 folder. (The pak files may need to be patched with the h2patch program that can be downloaded from Hammer of Thyrion website.
+
 **Future plan:**
 Make script available into RetroPie-script as a package (Need help for this)
 Create a script for HexenWorld and maybe make script available into RetroPie-script as a package.
