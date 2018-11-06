@@ -3,6 +3,9 @@ Hexen 2 for Raspberry pi script
 
 **Hexen II - uHexen II: Hammer of Thyrion source port**
 
+![alt text](https://github.com/tpo1990/Hexen2-RPI/blob/master/Screenshots/1540203084779-2018-10-21-204323_960x540_scrot.png)
+
+
 It is now possible to play Hexen II on RetroPie and Raspbian thanks to uHexen II: Hammer of Thyrion source port.
 
 This script provides an automatic installation for compiling and building Hexen 2 on Raspberry Pi and RetroPie.
