@@ -11,12 +11,12 @@ It is now possible to play Hexen II on RetroPie and Raspbian thanks to uHexen II
 This script provides an automatic installation for compiling and building Hexen 2 on Raspberry Pi and RetroPie.
 
 **Build process:**
-1: Download and install necessary required libs for SDL, Timidity and etc.
-2: Create folders Games and Hexen II with full path /home/pi/Games/Hexen II.
-3: Download uHexenII source files and 1997 Nov. demo of Hexen II.
-4: Compile uHexenII.
-5: Move .Pak file from 1997 Nov. demo of Hexen II into /home/pi/.HexenII.
-6: Create .desktop as a shortcut on Raspbian desktop and create Hexen II.sh file into Ports folder in RetroPie.
+1. Download and install necessary required libs for SDL, Timidity and etc.
+2. Create folders Games and Hexen II with full path /home/pi/Games/Hexen II.
+3. Download uHexenII source files and 1997 Nov. demo of Hexen II.
+4. Compile uHexenII.
+5. Move .Pak file from 1997 Nov. demo of Hexen II into /home/pi/.HexenII.
+6. Create .desktop as a shortcut on Raspbian desktop and create Hexen II.sh file into Ports folder in RetroPie.
 
 **Registered/Full version:**
 If you own an original copy of Hexen 2, then it is possible to use it with Hammer of Thyrion source port. You will just need to copy .pak0 and .pak1 into /home/pi/.hexen2/data1 folder. (The pak files may need to be patched with the h2patch program that can be downloaded from Hammer of Thyrion website.
